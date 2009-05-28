@@ -1,5 +1,5 @@
 #
 # update with: svn propset svn:externals -F ./EXTERNALS.txt .
 #
-labraise.skin http://svn.affinitic.be/plone/labraise.skin/trunk
+labraise.skin http://svn.affinitic.be/plone/labraise.skin/
 
