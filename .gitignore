@@ -1,9 +1,11 @@
+.Python
 .installed.cfg
 .mr.developer.cfg
 buildout.cfg
 bin/
 devel/
 develop-eggs/
+fake-eggs/
 include/
 lib/
 local/
